@@ -1,0 +1,5 @@
+﻿  klasa.cpp
+Macierz.obj : error LNK2019: nierozpoznany symbol zewnętrzny "void __cdecl dodajMacierze(class Macierz,class Macierz)" (?dodajMacierze@@YAXVMacierz@@0@Z) przywołany w funkcji _main
+    Wskazówki dla symboli, które są zdefiniowane i mogą potencjalnie pasować:
+      "void __cdecl dodajMacierze(class Macierz *,class Macierz *)" (?dodajMacierze@@YAXPAVMacierz@@0@Z)
+E:\Informatyka\programy\Macierz\Debug\Macierz.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
