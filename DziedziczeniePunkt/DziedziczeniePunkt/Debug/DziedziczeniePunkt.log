@@ -1,0 +1,4 @@
+﻿  DziedziczeniePunkt.cpp
+e:\informatyka\programy\dziedziczeniepunkt\dziedziczeniepunkt\dziedziczeniepunkt.cpp(14): error C3867: „Punkt::getX”: niestandardowa składnia; użyj znaku „&”, aby utworzyć wskaźnik do składowej
+  Klasa.cpp
+  Generowanie kodu...
