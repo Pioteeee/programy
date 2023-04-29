@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+E:\Informatyka\programy\trojkat\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,29): warning C4101: "pods2": lokalna zmienna, do której nie istnieje odwołanie
+E:\Informatyka\programy\trojkat\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,8): warning C4101: "wyso1": lokalna zmienna, do której nie istnieje odwołanie
+E:\Informatyka\programy\trojkat\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,22): warning C4101: "wyso2": lokalna zmienna, do której nie istnieje odwołanie
+E:\Informatyka\programy\trojkat\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,15): warning C4101: "pods1": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication1.vcxproj -> E:\Informatyka\programy\trojkat\ConsoleApplication1\Debug\ConsoleApplication1.exe
